@@ -1,4 +1,4 @@
-![main](C:\Users\Damie\Desktop\_Projects\LandingPage\Voyage\media\main.jpg)
+![main](Voyage\media\main.jpg)
 
 
 
